@@ -1,3 +1,8 @@
+/* 
+Simple TUI Todo Item List
+Next step is to have a ORM save and store the data
+*/
+
 use std::io;
 
 struct TodoItemList {
